@@ -107,6 +107,48 @@ Here are visual previews demonstrating the UI and movie search functionality:
 - Learned how to dynamically update UI based on user input
 - Enhanced skills in organizing and structuring a frontend project
 
+## 👨‍💻 Author
+
+*Krishna Chaithanya Pigilapu* 
+
+Java Full Stack Developer-Fresher
+
+**Core Skills:**
+
+Java • Spring Boot • REST APIs • HTML • CSS • JavaScript • React • SQL • Git & GitHub
+
+**About Me:**  
+
+Passionate fresher with strong fundamentals in backend and frontend development, actively looking for an entry-level developer role to apply skills and grow in a real-world environment.
+
+📧 Email: pigilapuchaithanya123@gmail.com 
+
+🔗 GitHub:https://github.com/Chaithu122
+
+🔗 LinkedIn:https://linkedin.com/in/krishna-chaithanya-pigilapu-655563349
+
+## 📬 Connect With Me
+
+If you found this project interesting or would like to discuss opportunities, feel free to connect with me:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-chaithanya-pigilapu-655563349/)
+- 📧 [Email](pigilapuchaithanya123@gmail.com)
+- 💻 [GitHub](https://github.com/Chaithu122)
+
+## 🚀 Open to Opportunities
+
+I am actively seeking opportunities to start my professional journey as a developer.
+This project reflects my commitment to writing clean, structured, and functional code using pure HTML, CSS, and JavaScript.
+If my work aligns with the standards you are looking for, I would be glad to connect and explore potential roles or internships.
+
+**🙌 Thank you for taking the time to review my project.Your time and consideration are truly appreciated.**
+
+
+
+
+
+
+
 
 
 
